@@ -1,0 +1,9 @@
+a {
+    transition-property: color;
+    transition-duration: 1s;
+    transition-timing-function: ease-in-out;
+}
+
+a:hover {
+    color: #000;
+}
